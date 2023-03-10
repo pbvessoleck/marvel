@@ -1,0 +1,43 @@
+*{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Lao', serif;
+    font-family: 'Oswald', sans-serif;
+}
+
+.title{
+    font-size: 25px;
+    margin-left: 5cm;
+    margin-right: 50px;
+    
+}
+main{
+    margin-inline-start: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 1300px;
+    font-size: 20px;
+}
+
+.logo_text{
+    
+}
+
+.info{
+    margin-top: 50px;
+}
+
+.redes{
+    margin-left: 47cm;
+    margin-top: 10px;
+    font-size: 50px;
+
+}
+footer{
+   
+
+}
+
+body{
+    background-image: url("./img/background.png");
+    background-size: cover;
